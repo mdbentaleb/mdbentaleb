@@ -17,18 +17,11 @@ I'm a beginner developer with a keen interest in becoming a DevOps engineer. My 
 - Exploring: Continuous Integration and Continuous Deployment (CI/CD)
 
 ## 🔧 Projects
-- **[Project 1](https://github.com/mdbentaleb/project1):** Brief description of what the project does.
-- **[Project 2](https://github.com/mdbentaleb/project2):** Brief description of what the project does.
-- **[Project 3](https://github.com/mdbentaleb/project3):** Brief description of what the project does.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdbentaleb&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mohamedbentaleb)
-- [Twitter](https://twitter.com/mdbentaleb)
 
 ---
 
-Feel free to customize this template as per your preference!
 
