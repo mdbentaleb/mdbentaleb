@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Bentaleb! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdbentaleb&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mdbentaleb&color=red)
 
 ## About Me
 I am a network developer with a strong focus on transitioning into a DevOps engineering role.
