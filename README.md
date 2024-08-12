@@ -10,7 +10,7 @@ My goal is to seamlessly integrate development and operations, utilizing best pr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,js,git,github,react,bash,docker,linux,vscode,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,js,git,github,react,tailwind,bash,docker,linux,vscode,ai,ps,pr" />
   </a>
 </p>
 
