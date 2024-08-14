@@ -3,9 +3,14 @@
 ![Profile visits](https://komarev.com/ghpvc/?username=mdbentaleb&color=red)
 
 ## About Me
-I am a network developer with a strong focus on transitioning into a DevOps engineering role.
-My journey in the tech industry started with a foundation in coding, and I've since dedicated myself to mastering a wide array of skills and tools essential to the DevOps domain.
-My goal is to seamlessly integrate development and operations, utilizing best practices to streamline processes and enhance overall efficiency within network environments.
+As a current student in Network Development, I’m passionate about designing and developing innovative network tools and software.
+My studies are providing a solid foundation in network principles, programming, and system integration. I’m eager to apply this knowledge to real-world challenges.
+Key areas of focus include:
+Network Tools Development: Creating and optimizing tools for network management and troubleshooting.
+Software Engineering: Gaining hands-on experience with programming languages and development techniques.
+System Integration: Integrating new tools within existing network infrastructures.
+Problem-Solving Skills: Addressing complex network issues with innovative solutions.
+I look forward to applying my skills in practical projects and collaborating with professionals to enhance network performance.
 ## 🚀 Skills
 
 <p align="center">
