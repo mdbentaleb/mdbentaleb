@@ -9,13 +9,12 @@ My studies are providing a solid foundation in network principles, programming, 
 <br>
 Key areas of focus include:
 <br>
-  Network Tools Development: Creating and optimizing tools for network management and troubleshooting.
-<br>
-  Software Engineering: Gaining hands-on experience with programming languages and development techniques.
-<br>
-  System Integration: Integrating new tools within existing network infrastructures.
-<br>
-  Problem-Solving Skills: Addressing complex network issues with innovative solutions.
+<ul>
+  <li>Network Tools Development: Creating and optimizing tools for network management and troubleshooting.</li>
+  <li>Software Engineering: Gaining hands-on experience with programming languages and development techniques.</li>
+  <li>System Integration: Integrating new tools within existing network infrastructures.</li>
+  <li>Problem-Solving Skills: Addressing complex network issues with innovative solutions.</li>
+</ul>
 <br>
 I look forward to applying my skills in practical projects and collaborating with professionals to enhance network performance.
 ## 🚀 Skills
