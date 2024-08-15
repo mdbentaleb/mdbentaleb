@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Bentaleb! 👋 <span style="float: right;">![Profile visits](https://komarev.com/ghpvc/?username=mdbentaleb&color=red)</span>
+# Hi there, I'm Mohamed Bentaleb! 👋 <p align="right">![Profile visits](https://komarev.com/ghpvc/?username=mdbentaleb&color=red)</p>
 
 ## About Me
 As a current student in Network Development, I’m passionate about designing and developing innovative network tools and software.
