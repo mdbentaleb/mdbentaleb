@@ -16,7 +16,7 @@ Key areas of focus include:
   <li>Problem-Solving Skills: Addressing complex network issues with innovative solutions.</li>
 </ul>
 I look forward to applying my skills in practical projects and collaborating with professionals to enhance network performance.
-<br>
+
 ## 🚀 Skills
 
 <p align="center">
