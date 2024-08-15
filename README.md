@@ -15,8 +15,8 @@ Key areas of focus include:
   <li>System Integration: Integrating new tools within existing network infrastructures.</li>
   <li>Problem-Solving Skills: Addressing complex network issues with innovative solutions.</li>
 </ul>
-<br>
 I look forward to applying my skills in practical projects and collaborating with professionals to enhance network performance.
+<br>
 ## 🚀 Skills
 
 <p align="center">
