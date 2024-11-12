@@ -17,7 +17,10 @@ I look forward to applying my skills in practical projects and collaborating wit
 
 ## 🚀 Skills
 
-<p align="center">
+
+
+<div align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
   </a>
@@ -37,6 +40,7 @@ I look forward to applying my skills in practical projects and collaborating wit
     <img src="https://skillicons.dev/icons?i=ai,ps,pr" />
   </a>
 </p>
+</div>
 
 ---
 
