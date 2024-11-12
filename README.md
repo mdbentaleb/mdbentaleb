@@ -22,19 +22,16 @@ I look forward to applying my skills in practical projects and collaborating wit
     <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
   </a>
 </p>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   </a>
 </p>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
   </a>
 </p>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,ps,pr" />
