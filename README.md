@@ -10,7 +10,7 @@ I’m passionate about systems and networks administration and software developm
 
 ### 🔧 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,nextjs,react,tailwind,git,github,docker,linux,vscode,ai,ps,pr" />
+<img src="https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,nextjs,react,tailwind,git,github,docker,linux,vscode,ai,ps,pr" />
 
 #
 
