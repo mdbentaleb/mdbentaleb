@@ -18,7 +18,7 @@ I’m passionate about systems and networks administration and software developm
 
 <p float="left" align="center">
   <a href="https://github.com/mdbentaleb/Libft">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/libft/Libft.png" width="265"/>
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/libft/libft.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Automated-System-Updater">
