@@ -33,4 +33,8 @@ I’m passionate about systems and networks administration and software developm
   <a href="https://github.com/mdbentaleb/Get_next_line_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/get_next_line/getnextline.png" width="265"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/mdbentaleb/Ft_printf_42">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/ft_printf/ftprintf.png" width="265"/>
+  </a>
 </p>
