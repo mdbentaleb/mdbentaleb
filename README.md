@@ -27,7 +27,7 @@ I’m passionate about systems and networks administration and software developm
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Automated-System-Updater">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/sysopt/SYSOPT.png" width="265"/>
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/SysOpt/sys-opt.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Get_next_line_42">
