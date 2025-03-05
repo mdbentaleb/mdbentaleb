@@ -22,18 +22,9 @@ I’m passionate about systems and networks administration and software developm
 ### 🚀 Featured Projects
 
 <p float="left" align="center">
-  <a href="https://github.com/mdbentaleb/Libft">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/libft/libft.png" width="265"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/mdbentaleb/Automated-System-Updater">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/sysopt/syOpt.png" width="265"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/mdbentaleb/Get_next_line_42">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/get_next_line/getnextline.png" width="265"/>
-  </a>
-  &nbsp;
   &nbsp;
   <a href="https://github.com/mdbentaleb/Dynamic_QR_Generator">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/qrgen/qrgen.png" width="265"/>
