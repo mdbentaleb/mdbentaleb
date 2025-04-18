@@ -33,3 +33,8 @@ I’m passionate about systems and networks administration and software developm
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/minitalk/minitalk.png" width="265"/>
   </a>
 </p>
+<p float="left" align="center">
+  <a href="https://github.com/mdbentaleb/So_long_42">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/so_long/so_long.png" width="265"/>
+  </a>
+</p>
