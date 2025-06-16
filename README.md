@@ -29,6 +29,7 @@ I’m passionate about systems and networks administration and software developm
   <a href="https://github.com/mdbentaleb/Dynamic_QR_Generator">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/qrgen/qrgen.png" width="265"/>
   </a>
+  &nbsp;
   <a href="https://github.com/mdbentaleb/Minitalk_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/minitalk/minitalk.png" width="265"/>
   </a>
@@ -37,6 +38,7 @@ I’m passionate about systems and networks administration and software developm
   <a href="https://github.com/mdbentaleb/So_long_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/so_long/so_long.png" width="265"/>
   </a>
+  &nbsp;
   <a href="https://github.com/mdbentaleb/Minishell_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/minishell/minishell.png" width="265"/>
   </a>
