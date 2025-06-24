@@ -40,6 +40,6 @@ I’m passionate about systems and networks administration and software developm
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Minishell_42">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/main/assets/minishell/minishell.png" width="265"/>
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minishell/minishell.png" width="265"/>
   </a>
 </p>
