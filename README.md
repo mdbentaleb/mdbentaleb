@@ -2,10 +2,8 @@
   <a href="#"><img width="1000" height="200" alt="Image" src="https://github.com/user-attachments/assets/cf595abb-7286-4db4-bbf4-25e2ec80e3ac" /></a>
 </div>
 
-<br>
-<br>
-
 **`Software Developer`**
+
 <br>
 I’m passionate about systems and networks administration and software development. I thrive on solving technical challenges and enhancing system efficiency while developing innovative tools that improve network performance and ensure reliable communication protocols.
 
@@ -21,7 +19,7 @@ I’m passionate about systems and networks administration and software developm
   <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,java,html,css,js,mongodb,tailwind,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
 </p>
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr" height="35" alt="Language Icons"/>
 </p>
 
 #
