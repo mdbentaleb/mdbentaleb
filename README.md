@@ -4,17 +4,13 @@
 
 **`Software Developer`**
 <br>
-<sub>
 I’m passionate about systems and networks administration and software development. I thrive on solving technical challenges and enhancing system efficiency while developing innovative tools that improve network performance and ensure reliable communication protocols.
-</sub>
 
 ---
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
 </p>
-
-
 
 ### 🔧 Languages and Tools
 
