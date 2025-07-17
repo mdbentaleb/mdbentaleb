@@ -4,7 +4,6 @@
 
 **`Software Engineer`**
 #
-
 <br>
 I’m passionate about systems and networks administration and software development. I thrive on solving technical challenges and enhancing system efficiency while developing innovative tools that improve network performance and ensure reliable communication protocols.
 
