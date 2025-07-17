@@ -1,9 +1,9 @@
-# Mohamed Bentaleb
+# Mohamed Bentaleb   
 
 **`Software Engineer`**
 
 <div align="center">
-  <a href="#"><<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/806a08c0-d3d0-4a3c-a848-ef2e214668a5" />/a>
+  <a href="#"><img width="1000" height="200" alt="Image" src="https://github.com/user-attachments/assets/cf595abb-7286-4db4-bbf4-25e2ec80e3ac" /></a>
 </div>
 
 I’m passionate about systems and networks administration and software development. I thrive on solving technical challenges and enhancing system efficiency while developing innovative tools that improve network performance and ensure reliable communication protocols.
