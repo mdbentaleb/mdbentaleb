@@ -64,7 +64,7 @@ class DeveloperCard {
   </a>
 </p>
 
-#
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
