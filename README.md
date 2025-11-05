@@ -29,7 +29,7 @@ class DeveloperCard {
 };
 ```
 
-	### 🔧 Languages and Tools
+### 🔧 Languages and Tools
 
 <p float="left" align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,java,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
