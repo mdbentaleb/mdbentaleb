@@ -13,11 +13,9 @@ I’m passionate about systems and networks administration and software developm
   <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
 </p>
 
-### 🔧 Languages and Tools
-
 ```cpp
 class DeveloperCard {
-public:
+	public:
 	std::string name		= "Mohamed Ben Taleb";
 	std::string role		= "Software Developer";
 	std::string skills		= 
@@ -30,6 +28,8 @@ public:
 	std::string email 		= "bent4leb@gmail.com";
 };
 ```
+
+	### 🔧 Languages and Tools
 
 <p float="left" align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,java,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
