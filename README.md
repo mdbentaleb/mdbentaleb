@@ -15,6 +15,22 @@ I’m passionate about systems and networks administration and software developm
 
 ### 🔧 Languages and Tools
 
+```cpp
+class Developer {
+public:
+	std::string name		= "Mohamed Ben Taleb";
+	std::string role		= "Software Developer";
+	std::string skills		= 
+		"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
+		"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
+		"System				: Unix/Linux, Shell scripting, System Admin, Virtualisation & Containers, Web Servers"
+		"Version Control	: Git, GitHub"
+		"Networking			: TCP/IP, Sockets, Network Concepts";
+	std::string linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
+	std::string email 		= "bent4leb@gmail.com";
+};
+```
+
 <p float="left" align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,java,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
 </p>
