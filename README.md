@@ -9,10 +9,6 @@ I’m passionate about systems and networks administration and software developm
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
-</p>
-
 ```cpp
 class DeveloperCard {
 	public:
@@ -66,4 +62,8 @@ class DeveloperCard {
   <a href="https://github.com/mdbentaleb/Minishell_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minishell/minishell.png" width="265"/>
   </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
 </p>
