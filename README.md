@@ -16,7 +16,7 @@ I’m passionate about systems and networks administration and software developm
 ### 🔧 Languages and Tools
 
 ```cpp
-class Developer {
+class DeveloperCard {
 public:
 	std::string name		= "Mohamed Ben Taleb";
 	std::string role		= "Software Developer";
