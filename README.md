@@ -12,16 +12,16 @@ I’m passionate about systems and networks administration and software developm
 ```cpp
 class DeveloperCard {
 	public:
-	std::string name		= "Mohamed Ben Taleb";
-	std::string role		= "Software Developer";
-	std::string skills		= 
+	name		= "Mohamed Ben Taleb";
+	role		= "Software Developer";
+	skills		=
 		"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
 		"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
 		"System				: Unix/Linux, Shell scripting, System Admin, Virtualisation & Containers, Web Servers"
 		"Version Control	: Git, GitHub"
 		"Networking			: TCP/IP, Sockets, Network Concepts";
-	std::string linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
-	std::string email 		= "bent4leb@gmail.com";
+	linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
+	email 		= "bent4leb@gmail.com";
 };
 ```
 
