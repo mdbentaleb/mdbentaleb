@@ -12,16 +12,16 @@ I’m passionate about systems and networks administration and software developm
 ```cpp
 class DeveloperCard {
 	public:
-	name		= "Mohamed Ben Taleb";
-	role		= "Software Developer";
-	skills		=
-		"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
-		"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
-		"System				: Unix/Linux, Shell scripting, System Admin, Virtualisation & Containers, Web Servers"
-		"Version Control	: Git, GitHub"
-		"Networking			: TCP/IP, Sockets, Network Concepts";
-	linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
-	email 		= "bent4leb@gmail.com";
+		name		= "Mohamed Ben Taleb";
+		role		= "Software Developer";
+		skills		=
+			"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
+			"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
+			"System				: Unix/Linux, Shell scripting, System Admin, Virtualisation & Containers, Web Servers"
+			"Version Control	: Git, GitHub"
+			"Networking			: TCP/IP, Sockets, Network Concepts";
+		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
+		email 		= "bent4leb@gmail.com";
 };
 ```
 
