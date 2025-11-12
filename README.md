@@ -17,7 +17,7 @@ class DeveloperCard {
 		skills		=
 			"Programming       : C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
 			"Web & Modern Stack: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
-			"System			   : Unix/Linux, Shell scripting, System Admin, Virtualisation/Containers, Web Servers"
+			"System			   : Unix/Linux, Scripting, System Admin, Virtualisation/Containers, Web Servers"
 			"Version Control   : Git, GitHub"
 			"Networking		   : TCP/IP, Sockets, Network Concepts";
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
