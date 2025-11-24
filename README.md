@@ -18,7 +18,7 @@ I’m a Software & Fullstack Developer passionate about creating efficient, scal
 class DeveloperCard {
 	public:
 		name		= "Mohamed Ben Taleb";
-		role		= "Software & Fullstack Developer, Systems & Network Administrator";
+		role		= "Software & Fullstack Developer";
 		skills		=
 			"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
 			"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
