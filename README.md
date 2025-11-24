@@ -11,19 +11,20 @@ I’m passionate about systems and networks administration and software developm
 
 #
 
-```cpp
-class DeveloperCard {
-	public:
-		name		= "Mohamed Ben Taleb";
-		role		= "Software Developer";
-		skills		=
-			"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
-			"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
-			"System				: Unix/Linux, Scripting, System Admin, Virtualisation & Containers, Web Servers"
-			"Version Control	: Git, GitHub"
-			"Networking			: TCP/IP, Sockets, Network Concepts";
-		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
-		email 		= "bent4leb@gmail.com";
+```JavaScript
+const developerCard = {
+    name		: "Mohamed Ben Taleb",
+    role		: "Software & Fullstack Developer and Systems & Network Administrator",
+    skills		:
+	{
+        programming		: "C, C++, OOP, Data Structures, Algorithms, Low-level Programming",
+        webStack		: "HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL",
+        system			: "Unix/Linux, Scripting, System Admin, Virtualisation & Containers, Web Servers",
+        versionControl	: "Git, GitHub",
+        networking		: "TCP/IP, Sockets, Network Concepts"
+	},
+    linkedin	: "https://www.linkedin.com/in/mohamedbentaleb/",
+    email		: "bent4leb@gmail.com"
 };
 ```
 
