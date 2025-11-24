@@ -6,25 +6,25 @@
   <b><code>Software & Fullstack Developer | Systems & Network Administrator</code></b>
 </p>
 
-<br>
-I’m passionate about systems and networks administration and software development. I thrive on solving technical challenges and enhancing system efficiency while developing innovative tools that improve network performance and ensure reliable communication protocols.
+<p align="center">
+I’m a Software & Fullstack Developer passionate about creating efficient, scalable, and innovative applications. I enjoy solving complex technical challenges and building tools that enhance performance and reliability. I also have experience as a Systems & Network Administrator, ensuring smooth operation and robust network infrastructure.
+</p>
 
 #
 
-```JavaScript
-const developerCard = {
-    name		: "Mohamed Ben Taleb",
-    role		: "Software & Fullstack Developer and Systems & Network Administrator",
-    skills		:
-	{
-        programming		: "C, C++, OOP, Data Structures, Algorithms, Low-level Programming",
-        webStack		: "HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL",
-        system			: "Unix/Linux, Scripting, System Admin, Virtualisation & Containers, Web Servers",
-        versionControl	: "Git, GitHub",
-        networking		: "TCP/IP, Sockets, Network Concepts"
-	},
-    linkedin	: "https://www.linkedin.com/in/mohamedbentaleb/",
-    email		: "bent4leb@gmail.com"
+```cpp
+class DeveloperCard {
+	public:
+		name		= "Mohamed Ben Taleb";
+		role		= "Software & Fullstack Developer, Systems & Network Administrator";
+		skills		=
+			"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
+			"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
+			"System				: Unix/Linux, Scripting, System Admin, Virtualisation & Containers, Web Servers"
+			"Version Control	: Git, GitHub"
+			"Networking			: TCP/IP, Sockets, Network Concepts";
+		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
+		email 		= "bent4leb@gmail.com";
 };
 ```
 
