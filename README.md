@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b><code>Software & Fullstack Developer | Systems & Network Administrator</code></b>
+  <b><code>Software & Fullstack Developer</code></b>
 </p>
 
 <br>
