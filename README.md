@@ -20,11 +20,13 @@ class DeveloperCard {
 		name		= "Mohamed Ben Taleb";
 		role		= "Software & Fullstack Developer";
 		skills		=
-			"Programming		: C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
-			"Web & Modern Stack	: HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
-			"System				: Unix/Linux, Scripting, System Admin, Virtualisation & Containers, Web Servers"
-			"Version Control	: Git, GitHub"
-			"Networking			: TCP/IP, Sockets, Network Concepts";
+			"Programming		  : C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
+			"Web & Modern Stack	  : HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
+			"System				  : Unix/Linux, Scripting, Sys Admin, Virtualisation & Containers, Web Servers"
+			"Networking			  : TCP/IP, Sockets, Network Concepts"
+			"Version Control	  : Git, GitHub"
+			"Project Manage Tools : Trello";
+		learning	= "UI/UX Fundamentals, Java, Advanced Angular";
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
 		email 		= "bent4leb@gmail.com";
 };
