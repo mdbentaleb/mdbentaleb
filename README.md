@@ -26,7 +26,7 @@ class DeveloperCard {
 			"Networking			  : TCP/IP, Sockets, Network Concepts"
 			"Version Control	  : Git, GitHub"
 			"Project Manage Tools : Trello";
-		learning	= "UI/UX Fundamentals, Java, Advanced Angular";
+		learning	= "UI/UX Fundamentals, TypeScript, Advanced Angular";
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
 		email 		= "bent4leb@gmail.com";
 };
@@ -35,10 +35,10 @@ class DeveloperCard {
 ### 🔧 Languages and Tools
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,java,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
 </p>
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mysql" height="40" alt="Language Icons"/>
 </p>
 <p float="left" align="center">
   <img src="https://skillicons.dev/icons?i=ai,ps,pr" height="35" alt="Language Icons"/>
