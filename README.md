@@ -76,3 +76,5 @@ class DeveloperCard {
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdbentaleb&color=red" alt="Profile views" />
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbentaleb&theme=github_dark)
