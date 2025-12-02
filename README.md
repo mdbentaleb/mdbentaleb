@@ -79,4 +79,4 @@ class DeveloperCard {
 
 <p align="center">
 	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbentaleb&theme=github_dark)
-</p>p
+</p>
