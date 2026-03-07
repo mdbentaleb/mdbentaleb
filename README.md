@@ -67,7 +67,7 @@ class DeveloperCard {
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Minishell_42">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minishell/mn.png" width="265"/>
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minishell/nm.png" width="265"/>
   </a>
 </p>
 
