@@ -50,7 +50,7 @@ class DeveloperCard {
 
 <p float="left" align="center">
   <a href="https://github.com/mdbentaleb/Automated-System-Updater">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/sysopt/syOpt.png" width="265"/>
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/sysopt/sysopt.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Philosophers_42">
