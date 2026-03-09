@@ -53,8 +53,8 @@ class DeveloperCard {
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/sysopt/syOpt.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mdbentaleb/Dynamic_QR_Generator">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/qrgen/qrgen.png" width="265"/>
+  <a href="https://github.com/mdbentaleb/Philosophers_42">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/philosophers/philosophers.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/mdbentaleb/Minitalk_42">
