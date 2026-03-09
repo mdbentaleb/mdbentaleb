@@ -66,9 +66,6 @@ class DeveloperCard {
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/so_long/so_long.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mdbentaleb/Minishell_42">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minishell/minishell.png" width="265"/>
-  </a>
     <a href="https://github.com/mdbentaleb/Minitalk_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minitalk/minitalk.png" width="265"/>
   </a>
