@@ -49,12 +49,12 @@ class DeveloperCard {
 ### 🚀 Featured Projects
 
 <p float="left" align="center">
-  <a href="https://github.com/mdbentaleb/Automated-System-Updater">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/sysopt/sysopt.png" width="265"/>
+  <a href="https://github.com/mdbentaleb/Inception_42">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/inception/inception.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mdbentaleb/Philosophers_42">
-    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/philosophers/philosophers.png" width="265"/>
+  <a href="https://github.com/mdbentaleb/Automated-System-Updater">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/sysopt/sysopt.png" width="265"/>
   </a>
   &nbsp;
     <a href="https://github.com/mdbentaleb/Minishell_42">
@@ -68,6 +68,10 @@ class DeveloperCard {
   &nbsp;
     <a href="https://github.com/mdbentaleb/Minitalk_42">
     <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/minitalk/minitalk.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mdbentaleb/Philosophers_42">
+    <img src="https://github.com/mdbentaleb/mdbentaleb/blob/master/assets/philosophers/philosophers.png" width="265"/>
   </a>
 </p>
 
