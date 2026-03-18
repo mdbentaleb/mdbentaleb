@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b><code>Software & Fullstack Developer</code></b>
+  <b><code>DevOps Engineer | Bridging Software Engineering & Cloud Ops</code></b>
 </p>
 
 <br>
