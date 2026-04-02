@@ -9,11 +9,10 @@
 <br>
 
 <p align="center">
-DevOps Engineer bridging core software engineering principles with modern cloud automation.
-My journey began in low-level programming and complex problem-solving with C/C++, object-oriented design, and algorithms. This solid foundation allows me to understand the software lifecycle from the inside out. 
-I bridge the gap between development and operations by applying engineering principles to infrastructure. I have hands-on experience building custom Dockerfiles, orchestrating multi-container environments with Docker Compose, and deploying secure, automated infrastructures on AWS (VPC, EC2, S3, IAM). I leverage Bash and Python to automate manual workflows and eliminate friction.
-Currently, I am expanding my skill set to master Infrastructure as Code (Terraform), CI/CD pipelines (GitHub Actions, Jenkins), Load Balancers, and Kubernetes to build highly scalable and resilient systems.
-I am driven by automation, zero-trust security, and continuous learning. **I am actively seeking Junior DevOps or Cloud Engineer roles** where I can contribute to modern cloud operations while growing alongside a senior team.
+I am a DevOps Engineer bridging core software engineering principles with modern cloud automation.
+My journey began in low-level programming (C/C++) and algorithms, giving me a deep understanding of the software lifecycle from the inside out.
+I apply this engineering mindset to infrastructure, with hands-on experience in Docker, Docker Compose, Bash/Python automation, and secure AWS deployments.
+Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
 </p>
 
 #
