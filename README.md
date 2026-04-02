@@ -21,15 +21,21 @@ Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
 class DeveloperCard {
 	public:
 		name		= "Mohamed Ben Taleb";
-		role		= "Software & Fullstack Developer";
+		role		= "DevOps Engineer | Bridging Software & Cloud Ops";
 		skills		=
-			"Programming		  : C, C++, OOP, Data Structures, Algorithms, Low-level Programming"
-			"Web & Modern Stack	  : HTML, CSS, JavaScript, Angular, Node.js, Express.js, MySQL"
-			"System				  : Unix/Linux, Scripting, Sys Admin, Virtualisation & Containers, Web Servers"
-			"Networking			  : TCP/IP, Sockets, Network Concepts"
-			"Version Control	  : Git, GitHub"
-			"Project Manage Tools : Trello";
-		learning	= "UI/UX Fundamentals, TypeScript, Advanced Angular";
+			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling), Nginx"
+			"Containers & Orchestration : Docker, Docker Compose, Kubernetes, Docker Swarm"
+			"CI/CD & Automation         : Jenkins, GitHub Actions, GitLab CI, Terraform"
+			"Systems & OS               : Linux/Unix, SysAdmin, Virtualization"
+			"Scripting                  : Bash, Python"
+			"Software Engineering       : C, C++, OOP, Data Structures, Algorithms, Sockets"
+			"Networking                 : TCP/IP, IP Subnetting, Network Configuration"
+			"Monitoring                 : Grafana"
+			"Version Control            : Git, GitHub"
+			"Web Stack                  : HTML, CSS, JS, Node.js, Express.js"
+			"Databases                  : MySQL",
+			"Project Manage Tools       : Trello";
+
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
 		email 		= "bent4leb@gmail.com";
 };
