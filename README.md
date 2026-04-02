@@ -21,7 +21,7 @@ Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
 class DeveloperCard {
 	public:
 		name		= "Mohamed Ben Taleb";
-		role		= "DevOps Engineer | Bridging Software & Cloud Ops";
+		role		= "DevOps Engineer, Bridging Software & Cloud Ops";
 		skills		=
 			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling), Nginx"
 			"Containers & Orchestration : Docker, Docker Compose, Kubernetes, Docker Swarm"
@@ -33,7 +33,7 @@ class DeveloperCard {
 			"Monitoring                 : Grafana"
 			"Version Control            : Git, GitHub"
 			"Web Stack                  : HTML, CSS, JS, Node.js, Express.js"
-			"Databases                  : MySQL",
+			"Databases                  : MySQL"
 			"Project Manage Tools       : Trello";
 
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
@@ -44,7 +44,7 @@ class DeveloperCard {
 ### 🔧 Languages and Tools
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,terraform,git,github" height="40" alt="DevOps Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,terraform,git,github,grafana" height="40" alt="DevOps Tools Icons"/>
 </p>
 
 <p float="left" align="center">
