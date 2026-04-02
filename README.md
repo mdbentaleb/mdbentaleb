@@ -44,10 +44,14 @@ class DeveloperCard {
 ### 🔧 Languages and Tools
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,git,github,docker,linux,vscode" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,terraform,git,github" height="40" alt="DevOps Tools Icons"/>
+</p>
+
+<p float="left" align="center">
+  <img src="https://skillicons.dev/icons?i=c,c++,bash,python,linux" height="40" alt="Language Icons"/>
 </p>
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mysql" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql" height="40" alt="Language Icons"/>
 </p>
 <p float="left" align="center">
   <img src="https://skillicons.dev/icons?i=ai,ps,pr" height="35" alt="Language Icons"/>
