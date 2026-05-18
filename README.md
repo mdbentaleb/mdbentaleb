@@ -48,7 +48,7 @@ class DeveloperCard {
 </p>
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,python,linux" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,bash,python,linux" height="40" alt="Language Icons"/>
 </p>
 
 <p float="left" align="center">
