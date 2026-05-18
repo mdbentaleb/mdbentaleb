@@ -44,11 +44,11 @@ class DeveloperCard {
 ### 🔧 Languages and Tools
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,git,github" height="40" alt="DevOps Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,postgres,postman,bash,python,linux" height="40" alt="Language Icons"/>
 </p>
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,postgres,postman,bash,python,linux" height="40" alt="Language Icons"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,git,github" height="40" alt="DevOps Tools Icons"/>
 </p>
 
 <p float="left" align="center">
