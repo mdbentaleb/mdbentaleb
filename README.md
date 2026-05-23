@@ -21,7 +21,7 @@ Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
 class DeveloperCard {
 	public:
 		name		= "Mohamed Ben Taleb";
-		role		= "DevOps Engineer, Bridging Software & Cloud Ops";
+		role		= "Junior DevOps & Backend Engineer";
 		skills		=
 			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling), Nginx"
 			"Containers & Orchestration : Docker, Docker Compose, Kubernetes, Docker Swarm"
