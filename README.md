@@ -21,20 +21,18 @@ Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
 class DeveloperCard {
 	public:
 		name		= "Mohamed Ben Taleb";
-		role		= "Junior DevOps & Backend Engineer";
+		role		= "Backend & DevOps Engineer";
 		skills		=
-			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling), Nginx"
-			"Containers & Orchestration : Docker, Docker Compose, Kubernetes, Docker Swarm"
-			"CI/CD & Automation         : Jenkins, GitHub Actions, GitLab CI, Terraform"
-			"Systems & OS               : Linux/Unix, SysAdmin, Virtualization"
-			"Scripting                  : Bash, Python"
-			"Software Engineering       : C, C++, OOP, Data Structures, Algorithms, Sockets"
-			"Networking                 : TCP/IP, IP Subnetting, Network Configuration"
-			"Monitoring                 : Grafana"
-			"Version Control            : Git, GitHub"
-			"Web Stack                  : HTML, CSS, JS, Node.js, Express.js"
-			"Databases                  : MySQL"
-			"Project Manage Tools       : Trello";
+			"Backend Development        : Java, Spring Boot, REST APIs, Spring Data JPA, Spring Security, Hibernate, Maven"
+			"Databases                  : PostgreSQL, SQL, Database Migrations"
+			"Testing                    : JUnit, Unit Testing, Integration Testing"
+			"Containers & Orchestration : Docker, Docker Compose, Kubernetes (basics)"
+			"CI/CD                      : GitHub Actions (basic), Git, GitHub"
+			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling)"
+			"Monitoring                 : Prometheus, Grafana"
+			"Systems & Scripting        : Linux / Unix, Bash, Python, System Administration, Virtualization"
+			"Networking                 : TCP / IP, Subnetting, Socket Programming, Network Configuration"
+			"Software Engineering       : C, C++, Object-Oriented Programming, Data Structures, Algorithms";
 
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
 		email 		= "bent4leb@gmail.com";
