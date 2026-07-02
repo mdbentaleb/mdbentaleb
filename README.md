@@ -23,15 +23,15 @@ class DeveloperCard {
 		name		= "Mohamed Ben Taleb";
 		role		= "Backend & DevOps Engineer";
 		skills		=
-			"Backend Development        : Java, Spring Boot, REST APIs, Spring Data JPA, Spring Security, Hibernate, Maven"
-			"Databases                  : PostgreSQL, SQL, Database Migrations"
-			"Testing                    : JUnit, Unit Testing, Integration Testing"
-			"Containers & Orchestration : Docker, Docker Compose, Kubernetes (basics)"
-			"CI/CD                      : GitHub Actions (basic), Git, GitHub"
-			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling)"
-			"Monitoring                 : Prometheus, Grafana"
-			"Systems & Scripting        : Linux / Unix, Bash, Python, System Administration, Virtualization"
-			"Networking                 : TCP / IP, Subnetting, Socket Programming, Network Configuration"
+			"Backend Development        : Java, Spring Boot, REST APIs, Spring Data JPA, Spring Security, Hibernate, Maven",
+			"Databases                  : PostgreSQL, SQL, Database Migrations",
+			"Testing                    : JUnit, Unit Testing, Integration Testing",
+			"Containers & Orchestration : Docker, Docker Compose, Kubernetes (basics)",
+			"CI/CD                      : GitHub Actions (basic), Git, GitHub",
+			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling)",
+			"Monitoring                 : Prometheus, Grafana",
+			"Systems & Scripting        : Linux / Unix, Bash, Python, System Administration, Virtualization",
+			"Networking                 : TCP / IP, Subnetting, Socket Programming, Network Configuration",
 			"Software Engineering       : C, C++, Object-Oriented Programming, Data Structures, Algorithms";
 
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
