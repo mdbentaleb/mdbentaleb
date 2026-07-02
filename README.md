@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b><code>Junior DevOps & Backend Engineer | Java, Spring Boot, & Cloud Infrastructure</code></b>
+  <b><code>Backend & DevOps Engineer | Java, Spring Boot, & Cloud Infrastructure</code></b>
 </p>
 
 <br>
