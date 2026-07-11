@@ -30,12 +30,13 @@ class DeveloperCard {
 			"CI/CD                      : GitHub Actions (basic), Git, GitHub",
 			"Cloud & Infrastructure     : AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling)",
 			"Monitoring                 : Prometheus, Grafana",
-			"Systems & Scripting        : Linux / Unix, Bash, Python, System Administration, Virtualization",
-			"Networking                 : TCP / IP, Subnetting, Socket Programming, Network Configuration",
-			"Software Engineering       : C, C++, Object-Oriented Programming, Data Structures, Algorithms";
+			"Systems & Scripting        : Linux/Unix, Bash, Python, System Administration, Virtualization",
+			"Networking                 : TCP/IP, Subnetting, Socket Programming, Network Configuration",
+			"Software Engineering       : C/C++, Object-Oriented Programming, Data Structures, Algorithms";
 
 		linkedin	= "https://www.linkedin.com/in/mohamedbentaleb/";
-		email 		= "bent4leb@gmail.com";
+		portfolio	= "https://bentaleb.netlify.app/";
+		email		= "bent4leb@gmail.com";
 };
 ```
 
