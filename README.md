@@ -9,10 +9,7 @@
 <br>
 
 <p align="center">
-I am a DevOps Engineer bridging core software engineering principles with modern cloud automation.
-My journey began in low-level programming (C/C++) and algorithms, giving me a deep understanding of the software lifecycle from the inside out.
-I apply this engineering mindset to infrastructure, with hands-on experience in Docker, Docker Compose, Bash/Python automation, and secure AWS deployments.
-Currently, I am expanding my skills in Terraform, CI/CD, and Kubernetes.
+Backend & DevOps Engineer specializing in Java and Spring Boot, with hands-on experience building REST APIs, database-driven applications, and containerized services using Docker. Trained at 1337 Coding School (42 Network) with deep exposure to systems programming, networking internals, and cloud deployment on AWS. Seeking a backend engineering role where I can contribute to production systems while developing DevOps capabilities through CI/CD, infrastructure automation, and cloud-native practices.
 </p>
 
 #
